@@ -1,11 +1,317 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 18:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 18:30:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Tag 4 Atemsystem Herz]]></title>
+            <guid>bbd35f015d9940f29f57bc44bf957a77</guid>
+            <pubDate>Thu, 09 Mar 2023 08:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p>App für die Praxis: <a title="https://www.sop-easy.de/" href="https://www.sop-easy.de/">https://www.sop-easy.de/</a></p>
+<h1 id="das-atmungssystem">Das Atmungssystem</h1>
+<ul>
+<li>Oberer Respirationstrakt
+<ul>
+<li>Nase, Nasenhöhlen</li>
+<li>Rachen</li>
+</ul>
+</li>
+<li>Unterer Respirationstrakt
+<ul>
+<li>Kehlkopf</li>
+<li>Luftröhre</li>
+<li>Bronchialbaum</li>
+<li>Lungenbläschen</li>
+</ul>
+</li>
+</ul>
+<h2 id="nase">Nase</h2>
+<ul>
+<li>Schleimhaut mit Flimmerhaaren
+<ul>
+<li>Erwärmung</li>
+<li>Anfeuchtung</li>
+<li>Vorreinigung</li>
+</ul>
+</li>
+<li>Sitz des Riechnervs
+<ul>
+<li>Prüffuktion (Nahrung, toxische Gase etc.)</li>
+<li>Riechnerv = 1. Hirnnerv (N. olfactorius)</li>
+</ul>
+</li>
+</ul>
+<h2 id="rachen">Rachen</h2>
+<ul>
+<li>Kreuzung des Luft- und Speiseweges
+<ul>
+<li>vorne (ventral): Luftröhre</li>
+<li>hinten (dorsal): Speiseröhre</li>
+<li>Kehldeckel (Epiglottis)</li>
+</ul>
+</li>
+<li>Anatomische Einteilung
+<ul>
+<li>Nasenrachen (Nasopharyny)</li>
+<li>Mundrachen</li>
+<li>Kehlkopfrachen (Laryngopharynx/Larynx)</li>
+</ul>
+</li>
+</ul>
+<h2 id="kehlkopf">Kehlkopf</h2>
+<p>Bestandteile:</p>
+<ul>
+<li>Zungenbein</li>
+<li>Kehldeckel (Epiglottis)</li>
+<li>Schildknorpel (unwichtig)</li>
+<li>Stellknorpel (unwichtig)</li>
+<li>Stimmbänder</li>
+</ul>
+<h2 id="bronchien-bronchiolen">Bronchien / Bronchiolen</h2>
+<p>Aufbau:</p>
+<ul>
+<li>2 Hauptbronchien</li>
+<li>5 Lappenbronchien</li>
+<li>19 Segmentbronchien</li>
+<li>Bronchialbaum</li>
+</ul>
+<p>Eigenschaften:</p>
+<ul>
+<li>respiratorisches Flimmerpithel</li>
+</ul>
+<h2 id="lungenbläschen-alveolen">Lungenbläschen (Alveolen)</h2>
+<h2 id="lunge-pulmo">Lunge (Pulmo)</h2>
+<ul>
+<li>reicht vom Zwechfell bis über die Schlüsseleine</li>
+<li>Aufbau:
+<ul>
+<li>2 Flügel</li>
+<li>5 Lappen</li>
+<li>19 Segmente</li>
+</ul>
+</li>
+</ul>
+<h1 id="grundlagen">Grundlagen</h1>
+<p>Atmung (lat. respiration):</p>
+<ul>
+<li><strong>Ventilation</strong>: Heranführen der Atemgase an die Lungenbläschen (Alveolen)</li>
+<li><strong>Diffusion</strong>: Übertritt der Atemgase in das Blut / die Zelle</li>
+<li><strong>Perfusion</strong>: Transport der Atemgase im Blut</li>
+</ul>
+<h2 id="atmung-parameter">Atmung - Parameter</h2>
+<ul>
+<li><strong>Atemfrequenz</strong> = Atemzüge pro Minute (ca. 12 - 15 / min bei Erwachsenen)</li>
+<li><strong>Atemzugvolumen</strong> = Luftmenge pro Atemzug (ca. 6 - 8 ml/kgKG - ca. 500 ml bei Erwachsenen)</li>
+<li><strong>Atemminutenvolumen</strong> = bewegte Luftmenge pro Minute, Atemfrequenz * Atemzugvolumen</li>
+</ul>
+<h2 id="totraum">Totraum</h2>
+<p>Bereich der nicht am Gasaustausch teilnimmt<br />
+<strong>Anatomischer Totraum</strong>:</p>
+<ul>
+<li>gesamters luftleitendes System</li>
+<li>ca. 2 ml/kgKG (= ca. 150 ml)<br />
+<strong>Physiologischer Totraum</strong>:</li>
+<li>anatomischer Totraum</li>
+<li>zusätzlich: nicht belüftet bzw. nicht durchblutete Lungenbereiche</li>
+</ul>
+<h2 id="zusammensetzung-der-luft">Zusammensetzung der Luft</h2>
+<p><strong>Einatmung</strong><br />
+78% Stickstoff<br />
+21% Sauerstoff<br />
+0% Kohlenstoffdioxid<br />
+1% Edelgase</p>
+<p><strong>Ausatmung</strong><br />
+78% Stickstoff<br />
+17% Sauerstoff<br />
+4% Kohlenstoffdioxid<br />
+1% Edelgase</p>
+<h2 id="atemsteuerung">Atemsteuerung</h2>
+<ul>
+<li>Steuerung durch Atemzentrum im verlängerten Mark (Medulla oblongata)</li>
+<li>Anreize durch Chemorezeptoren (z.B. im Kreislaufzentrum, in den großen Blutgefäßen)</li>
+</ul>
+<h2 id="atemmechanik">Atemmechanik</h2>
+<h3 id="einatmung">Einatmung</h3>
+<ul>
+<li>Zwerchfell senkt sich</li>
+<li>Rippen stellen sich auf</li>
+<li>
+<blockquote>
+<p>Volumenvergrößerung</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p>Luft wird angesaugt</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="ausatmung">Ausatmung</h3>
+<ul>
+<li>Muskulatur erschlafft</li>
+<li>Rippen senken sich &amp; Zwerchfell erschlafft</li>
+</ul>
+<h2 id="brustfell-pleura">Brustfell (Pleura)</h2>
+<ul>
+<li>dünne, seröse Haus</li>
+<li></li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tag 3 Schemata]]></title>
+            <guid>dcb2ec8903ed40f580106170a6d680c8</guid>
+            <pubDate>Wed, 08 Mar 2023 20:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="tag-3-schemata">Tag 3 Schemata</h1>
+<h2 id="gams-regel">GAMS-Regel</h2>
+<p><strong>G</strong>efahren erkennen, allgemeine Lage / Schadenslage, eigene Lage<br />
+<strong>A</strong>bsperrung errichten, Eigenschutz<br />
+<strong>M</strong>enschenrettung durchführen<br />
+<strong>S</strong>pezialkräfte alamieren</p>
+<h2 id="ssss">SSSS</h2>
+<p><strong>s</strong>cene<br />
+<strong>s</strong>afety<br />
+<strong>s</strong>ituation<br />
+<strong>s</strong>upport</p>
+<h2 id="cabcde">cABCDE</h2>
+<p><strong>c</strong> critical bleeding<br />
+<strong>A</strong> airways<br />
+<strong>B</strong> breathing<br />
+<strong>C</strong> circulation<br />
+<strong>D</strong> disability<br />
+<strong>E</strong> exposure / environment</p>
+<h2 id="wasb">WASB</h2>
+<p><strong>W w</strong>ach / ansprechbar, orientiert<br />
+<strong>A</strong> reagiert nur auf laute <strong>A</strong>nsprache<br />
+<strong>S</strong> reagiert nur auf <strong>S</strong>chmerzreiz<br />
+<strong>B</strong> nicht ansprechbar, <strong>B</strong>ewustlos</p>
+<h2 id="gefahrenschema-gefahrenmatrix">Gefahrenschema / Gefahrenmatrix</h2>
+<h3 id="4a-1c-4e">4A-1C-4E</h3>
+<p>Atemgifte<br />
+Ausbreitung<br />
+Angstreaktionen<br />
+atomare Gefahren</p>
+<p>chemische Gefahren</p>
+<p>Elektrizität<br />
+Einsturz<br />
+Explosion<br />
+Erkrankung</p>
+<h2 id="samplers">SAMPLERs</h2>
+<p><strong>S</strong> Symptome (Symptombeginn, Intensität)<br />
+<strong>A</strong> Allergien<br />
+<strong>M</strong> Medikamente (aktuelle Medikation mit Dosierung)<br />
+<strong>P</strong> Patientengeschichte / Präerkrankungen (vorherige Beschwerden, Familienanamnese)<br />
+<strong>L</strong> letzte Malzeit<br />
+<strong>E</strong> Ereignis (was war unmittelbar vor Symptombeginn)<br />
+<strong>R</strong> Risikofaktoren (fett, alt, rauchen, saufen, Drogen)<br />
+<strong>s</strong> Schwanger / letzter Stuhlgang</p>
+<h2 id="merkmale-auf-ungestörtes-bewustsein">Merkmale auf ungestörtes Bewustsein</h2>
+<ul>
+<li>Wahrnehmung mit allen Sinnen</li>
+<li>Denk- &amp; Merkvermögen</li>
+<li>Reaktionsvermögen</li>
+<li>Durchführung geordneter Bewegungen</li>
+<li>vierfach Orientiert (P-O-S-T)</li>
+<li>erhaltene Reflexe &amp; Schutzreflexe</li>
+<li>Muskeltonus</li>
+</ul>
+<h2 id="stadien-der-vigilanzminderung">Stadien der Vigilanzminderung</h2>
+<p><strong>Somnolenz</strong> (Schläfrigkeit)</p>
+<ul>
+<li>Konzentration &amp; Aufmerksamkeit reduziert</li>
+<li>erweckbar auf Ansprache bzw durch Weckreize</li>
+</ul>
+<p><strong>Sopor</strong></p>
+<ul>
+<li>tiefschlafähnlicher Zustand</li>
+<li>Abwehrreaktion auf (starke) Schmerzreize</li>
+</ul>
+<p><strong>Koma</strong></p>
+<ul>
+<li>tiefe Bewustlosigkeit</li>
+<li>auch durch Schmerzreiz nicht erweckbar</li>
+</ul>
+<h2 id="regurgitation-zurücklaufen-des-mageninhalts-in-die-speiseröhre">!Regurgitation: Zurücklaufen des Mageninhalts in die Speiseröhre</h2>
+<h2 id="aspiration-anatmung">!Aspiration: Anatmung</h2>
+<h2 id="medulum-opligata-bereich-mit-dem-atemzentrum">Medulum Opligata: Bereich mit dem Atemzentrum</h2>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tag 2]]></title>
+            <guid>d54df4beca474037a4f2263a7d24aefb</guid>
+            <pubDate>Wed, 08 Mar 2023 20:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="tag-2">Tag 2</h1>
+<h2 id="medizinproduktevorschrift">Medizinproduktevorschrift</h2>
+<h2 id="persönliche-hygiene-arbeitsschutz">Persönliche Hygiene / Arbeitsschutz</h2>
+<h2 id="dokumentation-datenschutz">Dokumentation / Datenschutz</h2>
+<p>Wann?</p>
+<ul>
+<li>alle Notfalleinsätze</li>
+<li>alle Notarzteinsätze</li>
+</ul>
+<p>In allen Fällen ungenügender Dokumentation liegt die Beweislast i.d.R. beim Durchführenden.</p>
+<h2 id="rechtliche-grundlagen">Rechtliche Grundlagen</h2>
+<p>§13 StGB Garantenpflicht<br />
+§32 StGB Notwehr<br />
+§34 StGB Rechtfertigender Notstand<br />
+§203 StGB Schweigepflicht<br />
+§323c StGB Behinderung von hilfeleistenden Personen</p>
+<h2 id="staßenverkehrsrecht">Staßenverkehrsrecht</h2>
+<p>§35 StVO Sonderrecht<br />
+§38 StVO Wegerecht (der Verkehrsteilnehmer hat freie Bahn zu schaffen!)</p>
+<h2 id="funken-im-einsatz">Funken im Einsatz</h2>
+<ul>
+<li>Staten</li>
+<li>Buchstabieralphabet</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tag 1]]></title>
+            <guid>96a8f58667c7402ca08a345913ae23c1</guid>
+            <pubDate>Wed, 08 Mar 2023 20:31:40 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="tag-1">Tag 1</h1>
+<h2 id="tagesplan">Tagesplan</h2>
+<ol>
+<li>Frank Philipp</li>
+<li>Frank Philipp</li>
+<li>Birgit Aigner: <strong>Schemata</strong></li>
+<li>Birgit Aigner: Anatomie &amp; Physiologie des <strong>Herz- Kreislaufsystems</strong> und der <strong>Lunge</strong></li>
+<li>Georg Heckle: <strong>Breathing</strong>: Erkennen von Atemstöhrungen, Pulsoxymetrie, Normalwerte Sauerstoffgabe</li>
+<li>Birgit Aigner: <strong>Circulation</strong>: Anatomie des Herz- Kreislaufsystems, Blut, Reizleitsystem</li>
+<li>Georg Heckle: Anatomie &amp; Physiologie des <strong>Nervensystems</strong></li>
+<li>Georg Heckle: <strong>Abdomen</strong>: Anatomie &amp; Physiologie der Bauchorgane</li>
+<li>Birgit Aigner: <strong>Infektionen</strong>: Grundlagen der Hygiene</li>
+<li>Birgit Aigner: <strong>Bewegungsapperat</strong></li>
+<li>Birgit Aigner</li>
+<li>Birgit Aigner</li>
+<li>Petra: <strong>Reanimation</strong></li>
+<li>Petra: <strong>EKG</strong></li>
+<li>Petra: <strong>Neurologie</strong></li>
+<li>Petra: <strong>Trauma, Schaufeltrage, Spineboard</strong></li>
+<li>Petra: <strong>Geburt, Schangerschaft, Kinderreha</strong></li>
+<li>Maxi: <strong>Einsatztaktik</strong> (cool, aber nicht sooo prüfungsrelevant)</li>
+<li>Petra: <strong>schriftliche Abschlussprüfung</strong>, danach nurnoch Fallnbeispiele</li>
+<li><strong>Praktische Prüfung</strong>: HLW &amp; Fallbeispiele</li>
+</ol>
+<h2 id="leistungsnachweise">Leistungsnachweise</h2>
+<p>LN 1: 6. Tag  20 Fragen (10 multiple choise + 10 offene Fragen)<br />
+LN 2: 11. Tag  20 Fragen (10 multiple choise + 10 offene Fragen)<br />
+LN 3: irgendwann  Fallbeispiel</p>
+<p>schriftliche AP: 19. Tag  50 Fragen (25 multiple choise + 25 offen)<br />
+praktische AP: 20. Tag  HLW &amp; Fallbeispiele</p>
+<p><strong>Herz &amp; Lunge</strong> sind die WICHTIGSTEN Themen</p>
+<h2 id="wo-geld">Wo Geld!?</h2>
+<p>BRK -&gt; Daten -&gt; ZAST<br />
+ZAST -&gt; Geld -&gt; BRK<br />
+ZRF -&gt; Auftrag -&gt; BRK<br />
+KK -&gt; Geld -&gt; ZAST<br />
+BRK -&gt; nachforderung Geld -&gt; KK</p>
+]]></content:encoded>
+        </item>
     </channel>
 </rss>
