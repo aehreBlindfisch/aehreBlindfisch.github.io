@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 13:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 13:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -24,6 +24,52 @@
 - Obere &amp; Untere Hohlverne</p>
 <p>Was ist die Inkubationszeit<br />
 - Zeit von Eindringen des Erregers bis zum Auftreten der Symptome</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fallbeispiele Prüfung]]></title>
+            <guid>a48b98b5993f443c8f48599fa4a2a5a4</guid>
+            <pubDate>Tue, 18 Jul 2023 10:50:15 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="motoradsturz">Motoradsturz</h1>
+<p>Pat m,45</p>
+<h2 id="xabcde">xABCDE</h2>
+<p><strong>x</strong> keine<br />
+<strong>A</strong> AF 20<br />
+<strong>B</strong> 96%<br />
+<strong>C</strong> Puls kräftig 120, RR 130/80<br />
+<strong>D</strong> Recap &lt;2s, Pupillen isocor, BZ 90, kann sich an Unfallhergang nicht erinnern -&gt; nur 3-fach Orientiert ohne Situation (POST)<br />
+<strong>E</strong> Bodycheck: keine Brüche, keine Einblutungen, Kribbeln in Armen und Beinen, Schmerzen in der Wirbelsäule, Wärmeerhalt</p>
+<h2 id="transport">Transport</h2>
+<p>Schaufeltrage &amp; Vakuummatratze</p>
+<h2 id="krankenhaus">Krankenhaus</h2>
+<p>Neurochirurgie</p>
+<h1 id="toxisches-lungenödem-nach-schäunenbrand-löschen">toxisches Lungenödem nach Schäunenbrand löschen</h1>
+<p>Pat m,27</p>
+<h2 id="xabcde-2">xABCDE</h2>
+<p><strong>x</strong> keine<br />
+<strong>A</strong> frei<br />
+<strong>B</strong> 78%, brodelnde Atemgeräusche, mit 15l O2 auf 68%<br />
+<strong>C</strong> Puls gut tastbar, aber schnell, RR 120/80<br />
+<strong>D</strong> BZ 110<br />
+<strong>E</strong> Wärmeerhalt</p>
+<h2 id="sampler">SAMPLER</h2>
+<p><strong>S</strong> Atemnot seit heute morgen<br />
+<strong>A</strong> keine<br />
+<strong>M</strong> keine<br />
+<strong>P</strong> keine<br />
+<strong>L</strong> Frühstück<br />
+<strong>E</strong> Feuerwehreinsatz am Vortag, Rauch eingeatmet, ohne Atemschutz<br />
+<strong>R</strong></p>
+<h1 id="polyintox">Polyintox</h1>
+<p>Pat m,30 in Gartenlaube mit leerer Schnapsflasche und Tablettenschachteln, bekannter C2-ler</p>
+<h2 id="xabcde-3">xABCDE</h2>
+<p><strong>x</strong> keine<br />
+<strong>A</strong> Tablettenreste müssen abgesaugt werden, AF 5 -&gt; assestiert Beatmen<br />
+<strong>B</strong> O2 anfänglich nicht Messbar, nach assestierter Beatmung 80%<br />
+<strong>C</strong> Puls gut tastbar 50, RR 90/50<br />
+<strong>D</strong> Recap &lt;2s, BZ</p>
+<h2 id="sampler-2">SAMPLER</h2>
+<p><strong>S</strong> Bewustlos</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -1053,91 +1099,6 @@ in der Dyastole</p>
 <ul>
 <li>dünne, seröse Haus</li>
 </ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Tag 3 Schemata]]></title>
-            <guid>dcb2ec8903ed40f580106170a6d680c8</guid>
-            <pubDate>Wed, 08 Mar 2023 20:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<h1 id="tag-3-schemata">Tag 3 Schemata</h1>
-<h2 id="gams-regel">GAMS-Regel</h2>
-<p><strong>G</strong>efahren erkennen, allgemeine Lage / Schadenslage, eigene Lage<br />
-<strong>A</strong>bsperrung errichten, Eigenschutz<br />
-<strong>M</strong>enschenrettung durchführen<br />
-<strong>S</strong>pezialkräfte alamieren</p>
-<h2 id="ssss">SSSS</h2>
-<p><strong>s</strong>cene<br />
-<strong>s</strong>afety<br />
-<strong>s</strong>ituation<br />
-<strong>s</strong>upport</p>
-<h2 id="cabcde">cABCDE</h2>
-<p><strong>c</strong> critical bleeding<br />
-<strong>A</strong> airways<br />
-<strong>B</strong> breathing<br />
-<strong>C</strong> circulation<br />
-<strong>D</strong> disability<br />
-<strong>E</strong> exposure / environment</p>
-<h2 id="wasb">WASB</h2>
-<p><strong>W w</strong>ach / ansprechbar, orientiert<br />
-<strong>A</strong> reagiert nur auf laute <strong>A</strong>nsprache<br />
-<strong>S</strong> reagiert nur auf <strong>S</strong>chmerzreiz<br />
-<strong>B</strong> nicht ansprechbar, <strong>B</strong>ewustlos</p>
-<h2 id="gefahrenschema-gefahrenmatrix">Gefahrenschema / Gefahrenmatrix</h2>
-<h3 id="4a-1c-4e">4A-1C-4E</h3>
-<p>Atemgifte<br />
-Ausbreitung<br />
-Angstreaktionen<br />
-atomare Gefahren</p>
-<p>chemische Gefahren</p>
-<p>Elektrizität<br />
-Einsturz<br />
-Explosion<br />
-Erkrankung</p>
-<h2 id="samplers">SAMPLERs</h2>
-<p><strong>S</strong> Symptome (Symptombeginn, Intensität)<br />
-<strong>A</strong> Allergien<br />
-<strong>M</strong> Medikamente (aktuelle Medikation mit Dosierung)<br />
-<strong>P</strong> Patientengeschichte / Präerkrankungen (vorherige Beschwerden, Familienanamnese)<br />
-<strong>L</strong> letzte Malzeit<br />
-<strong>E</strong> Ereignis (was war unmittelbar vor Symptombeginn)<br />
-<strong>R</strong> Risikofaktoren (fett, alt, rauchen, saufen, Drogen)<br />
-<strong>s</strong> Schwanger / letzter Stuhlgang</p>
-<h2 id="opqrst">OPQRST</h2>
-<p><strong>O</strong>nset: Wann hat es begonnen<br />
-<strong>P</strong>alliation: Was hat den Schmerz gelindert / verstärkt<br />
-<strong>Q</strong>uality: Art des Schmerzenz<br />
-<strong>R</strong>adiation: Art und wohin stahlt aus<br />
-<strong>S</strong>everity: Stärke des Schmerz 1 - 10 NRS<br />
-<strong>T</strong>ime: Zeitlicher Verlauf des Schmerzes</p>
-<h2 id="merkmale-auf-ungestörtes-bewustsein">Merkmale auf ungestörtes Bewustsein</h2>
-<ul>
-<li>Wahrnehmung mit allen Sinnen</li>
-<li>Denk- &amp; Merkvermögen</li>
-<li>Reaktionsvermögen</li>
-<li>Durchführung geordneter Bewegungen</li>
-<li>vierfach Orientiert (P-O-S-T)</li>
-<li>erhaltene Reflexe &amp; Schutzreflexe</li>
-<li>Muskeltonus</li>
-</ul>
-<h2 id="stadien-der-vigilanzminderung">Stadien der Vigilanzminderung</h2>
-<p><strong>Somnolenz</strong> (Schläfrigkeit)</p>
-<ul>
-<li>Konzentration &amp; Aufmerksamkeit reduziert</li>
-<li>erweckbar auf Ansprache bzw durch Weckreize</li>
-</ul>
-<p><strong>Sopor</strong></p>
-<ul>
-<li>tiefschlafähnlicher Zustand</li>
-<li>Abwehrreaktion auf (starke) Schmerzreize</li>
-</ul>
-<p><strong>Koma</strong></p>
-<ul>
-<li>tiefe Bewustlosigkeit</li>
-<li>auch durch Schmerzreiz nicht erweckbar</li>
-</ul>
-<h2 id="regurgitation-zurücklaufen-des-mageninhalts-in-die-speiseröhre">!Regurgitation: Zurücklaufen des Mageninhalts in die Speiseröhre</h2>
-<h2 id="aspiration-anatmung">!Aspiration: Anatmung</h2>
-<h2 id="medulum-opligata-bereich-mit-dem-atemzentrum">Medulum Opligata: Bereich mit dem Atemzentrum</h2>
 ]]></content:encoded>
         </item>
     </channel>
