@@ -4,9 +4,28 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 21:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 13:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Theorie Fragen]]></title>
+            <guid>3127d5a90bbd46199cbf7900a8a557bc</guid>
+            <pubDate>Tue, 18 Jul 2023 13:04:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Was sind mögliche ursachen für eine Nackensteifigkeit?<br />
+- Meningitis<br />
+- Hirndrucksteigerung<br />
+-Sonnenstich<br />
+-Schleudertrauma</p>
+<p>Wann kommt es zu Kaffeesatzerbrechen?<br />
+- GI-Blutung</p>
+<p>Skapular<br />
+- Schulterblatt</p>
+<p>Welche Blutgefäße münden in den Rechten Vorhof<br />
+- Obere &amp; Untere Hohlverne</p>
+<p>Was ist die Inkubationszeit<br />
+- Zeit von Eindringen des Erregers bis zum Auftreten der Symptome</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Tag 10 Trauma; Knochen; Haut]]></title>
             <guid>38f69eb0b39a4f288695b4af6228fd8e</guid>
@@ -1083,6 +1102,13 @@ Erkrankung</p>
 <strong>E</strong> Ereignis (was war unmittelbar vor Symptombeginn)<br />
 <strong>R</strong> Risikofaktoren (fett, alt, rauchen, saufen, Drogen)<br />
 <strong>s</strong> Schwanger / letzter Stuhlgang</p>
+<h2 id="opqrst">OPQRST</h2>
+<p><strong>O</strong>nset: Wann hat es begonnen<br />
+<strong>P</strong>alliation: Was hat den Schmerz gelindert / verstärkt<br />
+<strong>Q</strong>uality: Art des Schmerzenz<br />
+<strong>R</strong>adiation: Art und wohin stahlt aus<br />
+<strong>S</strong>everity: Stärke des Schmerz 1 - 10 NRS<br />
+<strong>T</strong>ime: Zeitlicher Verlauf des Schmerzes</p>
 <h2 id="merkmale-auf-ungestörtes-bewustsein">Merkmale auf ungestörtes Bewustsein</h2>
 <ul>
 <li>Wahrnehmung mit allen Sinnen</li>
@@ -1112,36 +1138,6 @@ Erkrankung</p>
 <h2 id="regurgitation-zurücklaufen-des-mageninhalts-in-die-speiseröhre">!Regurgitation: Zurücklaufen des Mageninhalts in die Speiseröhre</h2>
 <h2 id="aspiration-anatmung">!Aspiration: Anatmung</h2>
 <h2 id="medulum-opligata-bereich-mit-dem-atemzentrum">Medulum Opligata: Bereich mit dem Atemzentrum</h2>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Tag 2]]></title>
-            <guid>d54df4beca474037a4f2263a7d24aefb</guid>
-            <pubDate>Wed, 08 Mar 2023 20:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<h1 id="tag-2">Tag 2</h1>
-<h2 id="medizinproduktevorschrift">Medizinproduktevorschrift</h2>
-<h2 id="persönliche-hygiene-arbeitsschutz">Persönliche Hygiene / Arbeitsschutz</h2>
-<h2 id="dokumentation-datenschutz">Dokumentation / Datenschutz</h2>
-<p>Wann?</p>
-<ul>
-<li>alle Notfalleinsätze</li>
-<li>alle Notarzteinsätze</li>
-</ul>
-<p>In allen Fällen ungenügender Dokumentation liegt die Beweislast i.d.R. beim Durchführenden.</p>
-<h2 id="rechtliche-grundlagen">Rechtliche Grundlagen</h2>
-<p>§13 StGB Garantenpflicht<br />
-§32 StGB Notwehr<br />
-§34 StGB Rechtfertigender Notstand<br />
-§203 StGB Schweigepflicht<br />
-§323c StGB Behinderung von hilfeleistenden Personen</p>
-<h2 id="staßenverkehrsrecht">Staßenverkehrsrecht</h2>
-<p>§35 StVO Sonderrecht<br />
-§38 StVO Wegerecht (der Verkehrsteilnehmer hat freie Bahn zu schaffen!)</p>
-<h2 id="funken-im-einsatz">Funken im Einsatz</h2>
-<ul>
-<li>Staten</li>
-<li>Buchstabieralphabet</li>
-</ul>
 ]]></content:encoded>
         </item>
     </channel>
